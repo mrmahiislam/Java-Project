@@ -1,3 +1,10 @@
+## 🎥 Project Demo Video
+
+Watch the demo:  
+[![Watch Demo on YouTube](https://img.youtube.com/vi/leAjpVDog7Q/0.jpg)](https://youtu.be/leAjpVDog7Q)
+
+
+
 Project Name: BrainTrainX
 
 Description: BrainTrainX is an innovative online learning platform designed to provide users with a comprehensive and interactive educational experience. The platform allows learners from all backgrounds to log in, choose courses, participate in online tests, and purchase educational materials like books. With a focus on user convenience, BrainTrainX integrates features to enhance the learning process while offering easy access to educational resources.
